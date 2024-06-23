@@ -1,4 +1,4 @@
 requests
-beautifulsoap4
+beautifulsoup4
 pandas
 openpyxl
