@@ -1,0 +1,4 @@
+requests
+beautifulsoap4
+pandas
+openpyxl
